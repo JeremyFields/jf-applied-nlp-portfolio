@@ -1,4 +1,4 @@
-# NLP Portfolio Plan: Pre-processing Pipeline
+# NLP Portfolio: Pre-processing Pipeline
 
 ## Overview
 This project demonstrates a professional NLP pre-processing pipeline that transforms raw HTML data into a structured, machine-learning-ready format using **spaCy**, **BeautifulSoup**, and **Pandas**.
