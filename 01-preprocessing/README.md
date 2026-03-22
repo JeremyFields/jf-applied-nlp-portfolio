@@ -3,6 +3,23 @@
 ## Overview
 This project demonstrates a professional NLP pre-processing pipeline that transforms raw HTML data into a structured, machine-learning-ready format using **spaCy**, **BeautifulSoup**, and **Pandas**.
 
+## Setup & Installation
+1.  **Clone the repository and navigate to this folder:**
+    ```bash
+    git clone https://github.com/JeremyFields/jf-applied-nlp-portfolio.git
+    cd jf-applied-nlp-portfolio/01-preprocessing/
+    ```
+2.  **Activate venv and install dependencies using `uv` (or `pip`):**
+    ```bash
+    uv venv
+    source .venv/bin/activate
+    uv pip install -r ./requirements.txt --link-mode copy
+    ```
+3.  **Download the spaCy language model:**
+    ```bash
+    python -m spacy download en_core_web_sm
+    ```
+
 ## Technical Workflow
 1.  **Direct Text Acquisition:** 
     *   Targeted extraction of body content from HTML using **BeautifulSoup**.
