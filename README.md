@@ -8,5 +8,7 @@ This repository contains a collection of end-to-end NLP projects focusing on pip
 *   **Key Skills:** spaCy Pipeline Customization, Regex Normalization, HTML Parsing.
 *   **Technical Stack:** `spaCy`, `BeautifulSoup`, `Pandas`.
 
-### 2. [Next Project Topic] (Coming Soon)
-...
+### 2. [Commonsense Reason Generator](./02-reason-generator/)
+**Core Challenge:** Generating a concise commonsense explanation for a nonsensical statement.
+*   **Key Skills:** Sequence-to-Sequence Fine-Tuning, Text Generation, Hugging Face Transformers.
+*   **Technical Stack:** `PyTorch`, `Transformers`, `BART`.
