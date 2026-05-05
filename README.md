@@ -12,3 +12,8 @@ This repository contains a collection of end-to-end NLP projects focusing on pip
 **Core Challenge:** Generating a concise commonsense explanation for a nonsensical statement.
 *   **Key Skills:** Sequence-to-Sequence Fine-Tuning, Text Generation, Hugging Face Transformers.
 *   **Technical Stack:** `PyTorch`, `Transformers`, `BART`.
+
+### 3. [LSTM Sequence Labeling](./03-LSTM-Sequence-Labeling/)
+**Core Challenge:** Token-level sequence labeling for tasks like quantity extraction and span detection.
+*   **Key Skills:** LSTM-based sequence tagging, embeddings, sequence evaluation (precision/recall/F1).
+*   **Technical Stack:** `PyTorch`, `spaCy`, `GloVe` (optional), `pandas`.

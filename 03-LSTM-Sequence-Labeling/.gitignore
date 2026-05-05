@@ -1,0 +1,21 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+.venv/
+
+# Model artifacts and logs
+artifacts/
+*.keras
+*.h5
+*.ckpt
+
+# Dataset and embeddings (do not redistribute by default)
+data/
+glove/
+glove.6B/
+*.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
