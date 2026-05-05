@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+models/
+SemEval2020-Task4-Data/
